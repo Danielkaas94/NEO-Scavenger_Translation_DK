@@ -6,12 +6,12 @@ It is a mod for the game [NEO Scavenger](https://bluebottlegames.com/games/neo-s
 
 ### Original Text
 <p align="center">
-  <img alt="NEO Scavenger - Original Text" width="800" src="https://github.com/Danielkaas94/JustTesting/blob/master/Image/original_text.jpg?raw=true">
+  <img alt="NEO Scavenger - Original Text" width="900" src="https://github.com/Danielkaas94/JustTesting/blob/master/Image/original_text.jpg?raw=true">
 </p>
 
-### Translated Text"
+### Translated Text
 <p align="center">
-  <img alt="NEO Scavenger - Translated Text" width="800" src="https://github.com/Danielkaas94/JustTesting/blob/master/Image/translated_text.jpg?raw=true">
+  <img alt="NEO Scavenger - Translated Text" width="900" src="https://github.com/Danielkaas94/JustTesting/blob/master/Image/translated_text.jpg?raw=true">
 </p>
 
 
