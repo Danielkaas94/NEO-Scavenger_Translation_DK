@@ -107,8 +107,8 @@
         </table>
         <table name="encounters">
             <column name="id">3</column>
-            <column name="strName">Hack the door to stay shut.</column>
-            <column name="strDesc">Using a common maintenance override code, you switch the door controls into maintenance mode, forcing the door closed and locked. The creature howls madly, slams into the door, and rams it a few times, before its muffled sounds recede again.</column>
+            <column name="strName">Hack doeren for at blive lukket.</column>
+            <column name="strDesc">Ved hjaelp af en almindelig vedligeholdelse overstyringskode, skifter du doeren til vedligeholdelsestilstand, tvinger doeren lukket og laast. Vaesenet hyler vildt, smaekker og brager ind i doeren et par gange, foer de daempede lyde aftager igen.</column>
             <column name="strImg">EncCryoFacility.png</column>
             <column name="nTreasureID">3</column>
             <column name="nRemoveTreasureID">3</column>
