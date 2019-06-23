@@ -1,7 +1,7 @@
 # A good title - नमस्ते
 
 
-Join CodeWars with me!: www.codewars.com/r/hGyTsQ
+[Join CodeWars with me!](www.codewars.com/r/hGyTsQ)
 <p>
   <img alt="CodeWars Badge" src="https://www.codewars.com/users/Danielkaas94/badges/large">
 </p>
