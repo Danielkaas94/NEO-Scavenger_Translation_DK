@@ -653,8 +653,8 @@
         </table>
         <table name="encounters">
             <column name="id">24</column>
-            <column name="strName">Search the console for records.</column>
-            <column name="strDesc">You check the console for any patient info, and come across three records:Tank #1: Anton BlubberCommitted 2012-11-11Emergency contact: Angela Blubber, 45 Campbell St., Detroit, MI, 48210Billing info: Angela Blubber, 45 Campbell St., Detroit, MI, 48210Tank #5: Philip KindredCommitted 2019-09-15**NO DATA**Billing info: Account #20141117 Detroit Savings BankTank #6: Lloyd BlankcheckCommitted 2008-10-18Emergency contact: Meyer &amp; Meyer LLP, 304 South Broadway, Detroit, MI, 48226Billing info: Meyer &amp; Meyer LLP, 304 South Broadway, Detroit, MI, 48226</column>
+            <column name="strName">Soeg i konsollen for registreringer.</column>
+            <column name="strDesc">Du tjekker konsollen for enhver patient information, og stoeder paa tre registreringer:Kapsel #1: Anton BlubberEngageret 2012-11-11Noedkontakt: Angela Blubber, 45 Campbell St., Detroit, MI, 48210Faktura information: Angela Blubber, 45 Campbell St., Detroit, MI, 48210Kapsel #5: Philip KindredEngageret 2019-09-15**INGEN DATA**Faktura information: Account #20141117 Detroit Savings BankKapsel #6: Lloyd BlankcheckEngageret 2008-10-18Noedkontakt: Meyer &amp; Meyer LLP, 304 South Broadway, Detroit, MI, 48226Faktura information: Meyer &amp; Meyer LLP, 304 South Broadway, Detroit, MI, 48226</column>
             <column name="strImg">EncCryoFacility.png</column>
             <column name="nTreasureID">3</column>
             <column name="nRemoveTreasureID">3</column>
