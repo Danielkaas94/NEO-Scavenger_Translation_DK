@@ -289,8 +289,8 @@
         </table>
         <table name="encounters">
             <column name="id">10</column>
-            <column name="strName">Search for emergency equipment.</column>
-            <column name="strDesc">You recall that standard practice is to have a crash kit nearby in facilities like this, and check for emergency cabinets around the room.Sure enough, there's a cabinet just by the door, and it still has a medical kit in it!</column>
+            <column name="strName">Soeg efter noedudstyr.</column>
+            <column name="strDesc">Du minder om, at standard praksis er at have et nedbrudssaet i naerheden i faciliteter som dette, og tjekker noedsituations kabinetter omkring rummet.Sikker nok, er der et Kabinet lige ved doeren, og det har stadig medicinsk udstyr i det!</column>
             <column name="strImg">EncCryoFacility.png</column>
             <column name="nTreasureID">5</column>
             <column name="nRemoveTreasureID">3</column>
@@ -315,8 +315,8 @@
         </table>
         <table name="encounters">
             <column name="id">11</column>
-            <column name="strName">Rig the door to stay shut.</column>
-            <column name="strDesc">Using a common maintenance override code, you switch the door controls into maintenance mode, forcing the door closed and locked. The creature howls madly, slams into the door, and rams it a few times, before its muffled sounds recede again.</column>
+            <column name="strName">Indstil doeren for at blive lukket.</column>
+            <column name="strDesc">Ved hjaelp af en almindelig vedligeholdelse overstyringskode, skifter du doeren til vedligeholdelsestilstand, tvinger doeren lukket og laast. Vaesenet hyler vildt, smaekker og brager ind i doeren et par gange, foer de daempede lyde aftager igen.</column>
             <column name="strImg">EncCryoFacility.png</column>
             <column name="nTreasureID">3</column>
             <column name="nRemoveTreasureID">3</column>
@@ -393,8 +393,8 @@
         </table>
         <table name="encounters">
             <column name="id">14</column>
-            <column name="strName">Rig the door to stay shut.</column>
-            <column name="strDesc">Using a common maintenance override code, you switch the door controls into maintenance mode, forcing the door closed and locked. The creature howls madly, slams into the door, and rams it a few times, before its muffled sounds recede again.</column>
+            <column name="strName">Indstil doeren for at blive lukket.</column>
+            <column name="strDesc">Ved hjaelp af en almindelig vedligeholdelse overstyringskode, skifter du doeren til vedligeholdelsestilstand, tvinger doeren lukket og laast. Vaesenet hyler vildt, smaekker og brager ind i doeren et par gange, foer de daempede lyde aftager igen.</column>
             <column name="strImg">EncCryoFacility.png</column>
             <column name="nTreasureID">3</column>
             <column name="nRemoveTreasureID">3</column>
