@@ -133,8 +133,8 @@
         </table>
         <table name="encounters">
             <column name="id">4</column>
-            <column name="strName">Use knowledge of plants.</column>
-            <column name="strDesc">A plant catches your eye as you scan the room for supplies. Ricinus communis, the castor oil plant, is growing in from the window. You remember that this plant can be highly toxic, and most animals will avoid it if possible.Breaking off some branches, you quickly stomp on the leaves and seeds, rubbing the fragments on your feet and hands. You scatter the rest in the doorway just in time. The predatory dog-like creature comes to a halt as it reaches the doorway, sniffing the plants, and shaking its head in disgust. You thrust your hands toward it, and it steps back further, obviously uninterested in your toxic scent.With one more huff, it pads down the hall, looking for more palatable prey.</column>
+            <column name="strName">Brug viden om planter.</column>
+            <column name="strDesc">En plante fanger dit blik, mens du scanner pladsen for forsyninger. Ricinus communis, olieplanten vokser ind fra vinduet. Du husker, at denne plante kan vaere meget giftige, og de fleste dyr vil undgaa det hvis det er muligt.Du knaekker nogle grene og tramper hurtigt paa blade og froe og gnider fragmenterne paa dine foedder og haender. Du spreder resten ved doeraabningen lige i tide. Den aggressive hunde-lignende vaesen kommer i staa, da den naar doeraabningen, snuser til planterne og ryster hovedet i afsky. Du trykker dine haender imod den, og den traeder tilbage yderligere, selvfoelgelig uinteresseret i din giftige duft.Med endnu en stoen, gaar den ned ad hallen og leder efter mere velsmagende bytte.</column>
             <column name="strImg">EncDeathDogman.png</column>
             <column name="nTreasureID">3</column>
             <column name="nRemoveTreasureID">3</column>
@@ -186,7 +186,7 @@
         <table name="encounters">
             <column name="id">6</column>
             <column name="strName">The dogman is dead, now what?</column>
-            <column name="strDesc">With the rush of adrenaline fading, you turn your attention back to this strange room.You should probably finish up here, in case there are more of those things.</column>
+            <column name="strDesc">Mens suset af adrenalin aftages, vendes din opmaerksomhed tilbage til dette underlige rum.Du boer nok faa afsluttet op her, hvis der er flere af disse udyr.</column>
             <column name="strImg">EncDeathDogman.png</column>
             <column name="nTreasureID">396</column>
             <column name="nRemoveTreasureID">3</column>
