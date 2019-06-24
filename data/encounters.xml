@@ -1356,7 +1356,7 @@
         <table name="encounters">
             <column name="id">51</column>
             <column name="strName">Efterse et forladt hus.</column>
-            <column name="strDesc">Forstaederne blev haardt ramt af sammenbruddet. Med masser af mennesker, der flygter fra bycentrene på udkig efter forsyninger og overnaturlige trusler traenger ind fra vildmarken, blev forstaederne frontlinjen i en krig for overlevelse.Alligevel er huse som disse så talrige, at nogle er blevet fuldstaendig undgaaet af plyndringsmaend. Og de har tendens til at vaere mindre tilboejelige til at falde fra hinanden, end de stoerre bygninger ved bycentrene.</column>
+            <column name="strDesc">Forstaederne blev haardt ramt af sammenbruddet. Med masser af mennesker, der flygter fra bycentrene på udkig efter forsyninger og overnaturlige trusler traenger ind fra vildmarken, blev forstaederne frontlinjen i en krig for overlevelse.Alligevel er huse som disse så talrige, at nogle er blevet fuldstaendig undgaaet af klunsere. Og de har tendens til at vaere mindre tilboejelige til at falde fra hinanden, end de stoerre bygninger ved bycentrene.</column>
             <column name="strImg">ItmScavengeHouse01.png</column>
             <column name="nTreasureID">3</column>
             <column name="nRemoveTreasureID">3</column>
@@ -1381,8 +1381,8 @@
         </table>
         <table name="encounters">
             <column name="id">52</column>
-            <column name="strName">Scavenge an abandoned mobile home.</column>
-            <column name="strDesc">Like other suburban homes, mobile homes were on the front lines in a war between fleeing urban populations and supernatural hordes from the wilds. However, their smaller size often means there's less to be found in each.</column>
+            <column name="strName">Efterse en forladt campingvogn.</column>
+            <column name="strDesc">Ligesom andre forstaederhjem var campingvogne paa frontlinjen i en krig mellem flygtige byboer og overnaturlige horder fra vildmarkerne. Men deres mindre stoerrelse betyder dog ofte, at der er mindre at finde i hver.</column>
             <column name="strImg">ItmScavengeHouse02.png</column>
             <column name="nTreasureID">3</column>
             <column name="nRemoveTreasureID">3</column>
@@ -1407,8 +1407,8 @@
         </table>
         <table name="encounters">
             <column name="id">53</column>
-            <column name="strName">Scavenge an abandoned office tower.</column>
-            <column name="strDesc">Due to their nature, office towers weren't primary looting targets during the food riots. More obvious targets got the most attention.Later on, astute scavengers realized many offices had bottled water, and often kitchens. What's more, the supply closets often contained valuable survival tools. The supplies aren't expected to be great, but it's worth a shot.</column>
+            <column name="strName">Efterse et forladt kontortaarn.</column>
+            <column name="strDesc">Paa grund af deres natur var kontortaarne ikke primaere plyndringsmaal under madvareoptoejerne. Mere oplagte maal fik mest opmaerksomhed.Senere indsaa de dygtige klunsere, at mange kontorer havde flaskevand og ofte koekkener. Derudover indeholdte forsyningsskaberne ofte vaerdifulde overlevelsesvaerktoejer. Forsyningerne forventes ikke at vaere store, men det er et forsoeg vaerd.</column>
             <column name="strImg">ItmScavengeOffice01.png</column>
             <column name="nTreasureID">3</column>
             <column name="nRemoveTreasureID">3</column>
@@ -1433,8 +1433,8 @@
         </table>
         <table name="encounters">
             <column name="id">54</column>
-            <column name="strName">Scavenge a destroyed office building.</column>
-            <column name="strDesc">This office building is in ruins, and it's unlikely much survived its collapse. The creaking walls and ceiling are no boost to your confidence, either. Still, that may mean no one was brave enough (or perhaps desperate enough) to go in there.</column>
+            <column name="strName">Efterse en destrueret kontorbygning.</column>
+            <column name="strDesc">Denne kontorbygning er i ruiner, og det er usandsynligt, at meget overlevede sin sammenbrud. De knirkende mure og loft er heller ikke et plus til din tillid. Alligevel kan det betyde ingen var modig nok (eller maaske desperate nok) til at gaa derind.</column>
             <column name="strImg">ItmScavengeOffice02.png</column>
             <column name="nTreasureID">3</column>
             <column name="nRemoveTreasureID">3</column>
