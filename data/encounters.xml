@@ -1329,8 +1329,8 @@
         </table>
         <table name="encounters">
             <column name="id">50</column>
-            <column name="strName">Scavenge an abandoned apartment building.</column>
-            <column name="strDesc">This concrete apartment building looks to be in better shape than most. Sure, the windows are all but gone and a giant fissure runs along one wall, but this place looks as if it could still provide suitable shelter for someone.Perhaps that's what makes you feel so nervous about approaching it.</column>
+            <column name="strName">Efterse en forladt lejlighedsbygning.</column>
+            <column name="strDesc">Denne betonlejlighed ser ud til at vaere i bedre stand end de fleste. Selvfoelgelig, vinduerne er alt sammen borte og en stor revne loeber langs en vaeg, men dette sted ser ud som om det stadig kunne give passende ly til nogen.Maaske det er det, der faar dig til at foele dig saa nervoes over at naerme sig den</column>
             <column name="strImg">ItmScavengeApt02.png</column>
             <column name="nTreasureID">3</column>
             <column name="nRemoveTreasureID">3</column>
@@ -1355,8 +1355,8 @@
         </table>
         <table name="encounters">
             <column name="id">51</column>
-            <column name="strName">Scavenge an abandoned house.</column>
-            <column name="strDesc">The suburbs were hit hard in the collapse. With masses of people fleeing urban centers in search of supplies, and supernatural threats encroaching from the wilds, the suburbs became the front lines in a war for survival.Still, houses like these are so numerous that some have been entirely missed by scavengers. And they tend to be less likely to fall over than the bigger buildings in urban centers.</column>
+            <column name="strName">Efterse et forladt hus.</column>
+            <column name="strDesc">Forstaederne blev haardt ramt af sammenbruddet. Med masser af mennesker, der flygter fra bycentrene på udkig efter forsyninger og overnaturlige trusler traenger ind fra vildmarken, blev forstaederne frontlinjen i en krig for overlevelse.Alligevel er huse som disse så talrige, at nogle er blevet fuldstaendig undgaaet af plyndringsmaend. Og de har tendens til at vaere mindre tilboejelige til at falde fra hinanden, end de stoerre bygninger ved bycentrene.</column>
             <column name="strImg">ItmScavengeHouse01.png</column>
             <column name="nTreasureID">3</column>
             <column name="nRemoveTreasureID">3</column>
