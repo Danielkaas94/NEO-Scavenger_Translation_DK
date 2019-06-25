@@ -367,8 +367,8 @@
         </table>
         <table name="encounters">
             <column name="id">13</column>
-            <column name="strName">Ambush?</column>
-            <column name="strDesc">One or more creatures approach, but none have seen you yet.Will you sneak closer to them?Or keep your distance?</column>
+            <column name="strName">Baghold?</column>
+            <column name="strDesc">En eller flere vaesner naermer sig, men ingen har set dig endnu.Vil du snige dig taettere på dem?Eller holde afstanden?</column>
             <column name="strImg">EncAmbush.png</column>
             <column name="nTreasureID">3</column>
             <column name="nRemoveTreasureID">3</column>
@@ -419,8 +419,8 @@
         </table>
         <table name="encounters">
             <column name="id">15</column>
-            <column name="strName">Search for clues.</column>
-            <column name="strDesc">The dust on the ground makes it easy for your trained eye to pick out one set of tracks in particular.They seem to belong to a humanoid dragging something, probably a mantle or cloak. It was here fairly recently, probably in the past 24 hours. It entered through the doorway, walked to your stasis tank, went to the control console, and then left.You'd bet good money that it wasn't the dogman you just faced.</column>
+            <column name="strName">Soeg efter spor.</column>
+            <column name="strDesc">Stoevet paa jorden goer det nemt for dit traenede øje at gå efter et sæt af spor i særdeleshed.De synes at tilhoere en humanoid der trækker i noget, nok en kappe. Det var her for nylig, sandsynligvis indenfor de sidste 24 timer. Det traadte ind gennem doeråbningen, gik til din stasis tank, gik til kontrolkonsollen og derefter tilbage.Du ville satse gode penge paa, at det ikke var hunde manden som du lige stod overfor.</column>
             <column name="strImg">EncCryoFacility.png</column>
             <column name="nTreasureID">3</column>
             <column name="nRemoveTreasureID">3</column>
