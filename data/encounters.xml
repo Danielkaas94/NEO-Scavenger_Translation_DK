@@ -471,8 +471,8 @@
         </table>
         <table name="encounters">
             <column name="id">17</column>
-            <column name="strName">Get Footage</column>
-            <column name="strDesc">You decide that was so awesome that you fish through the console for the security footage of it, and take it.</column>
+            <column name="strName">Hent optagelser</column>
+            <column name="strDesc">Du beslutter, at det var så fantastisk, at du fisker igennem konsollen for sikkerhedsoptagelser af det, og tager det med.</column>
             <column name="strImg">EncDeathDogman.png</column>
             <column name="nTreasureID">401</column>
             <column name="nRemoveTreasureID">3</column>
@@ -497,8 +497,8 @@
         </table>
         <table name="encounters">
             <column name="id">18</column>
-            <column name="strName">Notice an item.</column>
-            <column name="strDesc">Something catches your eye as you scan the room. Obscured in the shadows behind tank #2 is something small and metallic lying on the floor.Upon closer inspection, it appears to be a multitool pocket knife. Probably left behind by maintenance personnel ages ago, and nobody saw it since.Whoever left it here, you're pretty sure they don't need it as much as you, so you decide to take it.</column>
+            <column name="strName">Bemaerk en genstand.</column>
+            <column name="strDesc">Noget fanger dit oeje, da du scanner lokalet. Formoerket af skyggerne bag kapsel #2 er noget lille og metallisk liggende paa gulvet.Ved naermere eftersyn ser det ud til at vaere en multitool lommekniv. Sandsynligvis efterladt af vedligeholdelsespersonale for laenge siden, og ingen har set den siden.Hvem der end har efterladt den her, du er helt sikker på, at de ikke har brug for den saa meget som dig, saa du beslutter dig for at tage den.</column>
             <column name="strImg">EncCryoFacility.png</column>
             <column name="nTreasureID">67</column>
             <column name="nRemoveTreasureID">3</column>
