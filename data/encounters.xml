@@ -550,7 +550,7 @@
         <table name="encounters">
             <column name="id">20</column>
             <column name="strName">Bortskaf reality show stjernen.</column>
-            <column name="strDesc">Du taster koden for beroemtheden, du skynder dig tilbage til dit egen kapsel og forsegler den igen.Kapsel #1 begynder at brumme, og forseglingen bryder med et brusende hast af vaeske. Rummet hviner og boejes af kulde fra det flydende nitrogen, der daekker gulvet.Inden for et lille øjeblik er kvaelstoffet kogt ud ved stuetemperatur og efterlader et frosset mansikel paa gulvet.I foerste omgang bakker hunde manden ud, usikker paa den uro, der netop er sket. Men sult erstatter hurtigt bekymring, da lugten af optoening af koed fanger hans opmaerksomhed. Han begynder at traekke kroppen vaek, sandsynligvis til hans hule.Og hans karriere var ellers ved at varme op...</column>
+            <column name="strDesc">Du taster koden for beroemtheden, du skynder dig tilbage til din egen kapsel og forsegler den igen.Kapsel #1 begynder at brumme, og forseglingen bryder med et brusende hast af vaeske. Rummet hviner og boejes af kulde fra det flydende nitrogen, der daekker gulvet.Inden for et lille øjeblik er kvaelstoffet kogt ud ved stuetemperatur og efterlader et frosset mansikel paa gulvet.I foerste omgang bakker hunde manden ud, usikker paa den uro, der netop er sket. Men sult erstatter hurtigt bekymring, da lugten af optoening af koed fanger hans opmaerksomhed. Han begynder at traekke kroppen vaek, sandsynligvis til hans hule.Og hans karriere var ellers ved at varme op...</column>
             <column name="strImg">EncDeathDogman.png</column>
             <column name="nTreasureID">3</column>
             <column name="nRemoveTreasureID">3</column>
@@ -1356,7 +1356,7 @@
         <table name="encounters">
             <column name="id">51</column>
             <column name="strName">Efterse et forladt hus.</column>
-            <column name="strDesc">Forstaederne blev haardt ramt af sammenbruddet. Med masser af mennesker, der flygter fra bycentrene på udkig efter forsyninger og overnaturlige trusler traenger ind fra vildmarken, blev forstaederne frontlinjen i en krig for overlevelse.Alligevel er huse som disse så talrige, at nogle er blevet fuldstaendig undgaaet af klunsere. Og de har tendens til at vaere mindre tilboejelige til at falde fra hinanden, end de stoerre bygninger ved bycentrene.</column>
+            <column name="strDesc">Forstaederne blev haardt ramt af sammenbruddet. Med masser af mennesker, der flygter fra bycentrene paa udkig efter forsyninger og overnaturlige trusler traenger ind fra vildmarken, blev forstaederne frontlinjen i en krig for overlevelse.Alligevel er huse som disse så talrige, at nogle er blevet fuldstaendig undgaaet af klunsere. Og de har tendens til at vaere mindre tilboejelige til at falde fra hinanden, end de stoerre bygninger ved bycentrene.</column>
             <column name="strImg">ItmScavengeHouse01.png</column>
             <column name="nTreasureID">3</column>
             <column name="nRemoveTreasureID">3</column>
