@@ -549,8 +549,8 @@
         </table>
         <table name="encounters">
             <column name="id">20</column>
-            <column name="strName">Dump the reality show star.</column>
-            <column name="strDesc">Punching in the code for the celebrity, you rush back to your own tube, and re-seal it.Tank #1 starts to hum, and the seal breaks with a roaring rush of fluid. The room squeals and flexes with the chilling cold of the liquid nitrogen covering the floor.Within moments, the nitrogen has boiled off at room temperature, leaving a frozen mansicle on the floor.Initially, the dogman backs off, unsure of the commotion that just occurred. However, hunger quickly replaces concern, as the smell of thawing flesh catches his attention. He starts dragging the body off, probably to his lair.And his career was just warming up...</column>
+            <column name="strName">Bortskaf reality show stjernen.</column>
+            <column name="strDesc">Du taster koden for beroemtheden, du skynder dig tilbage til dit egen kapsel og forsegler den igen.Kapsel #1 begynder at brumme, og forseglingen bryder med et brusende hast af vaeske. Rummet hviner og boejes af kulde fra det flydende nitrogen, der daekker gulvet.Inden for et lille øjeblik er kvaelstoffet kogt ud ved stuetemperatur og efterlader et frosset mansikel paa gulvet.I foerste omgang bakker hunde manden ud, usikker paa den uro, der netop er sket. Men sult erstatter hurtigt bekymring, da lugten af optoening af koed fanger hans opmaerksomhed. Han begynder at traekke kroppen vaek, sandsynligvis til hans hule.Og hans karriere var ellers ved at varme op...</column>
             <column name="strImg">EncDeathDogman.png</column>
             <column name="nTreasureID">3</column>
             <column name="nRemoveTreasureID">3</column>
