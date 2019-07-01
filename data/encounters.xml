@@ -1486,7 +1486,7 @@
         <table name="encounters">
             <column name="id">56</column>
             <column name="strName">Efterse en skov hytte.</column>
-            <column name="strDesc">At vaere langt vaek fra bycentrene, denne afsondrede hytte kan have mere at byde på. Det kunne dog også vaere hjemsted for en overlevende eller militsmedlem, saa pas paa for lureminer.</column>
+            <column name="strDesc">At vaere langt vaek fra bycentrene, denne afsondrede hytte kan have mere at byde paa. Det kunne dog ogsaa vaere hjemsted for en overlevende eller militsmedlem, saa pas paa for lureminer.</column>
             <column name="strImg">ItmScavengeForest02.png</column>
             <column name="nTreasureID">3</column>
             <column name="nRemoveTreasureID">3</column>
