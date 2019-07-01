@@ -1459,8 +1459,8 @@
         </table>
         <table name="encounters">
             <column name="id">55</column>
-            <column name="strName">Scavenge a stretch of forest.</column>
-            <column name="strDesc">This stretch of forest seems to almost flourish in the absence of human life. There's a good chance one could find food and raw materials in here if they knew what to look for.Just watch out for creatures that make this forest their home...and hunting ground.</column>
+            <column name="strName">Efterse en straekning af skoven.</column>
+            <column name="strDesc">Denne skovstraekning synes næsten at blomstre i mangel af menneskeliv. Der er en god chance, at en kunne finde mad og raavarer herinde, hvis de vidste, hvad de skulle kigge efter.Bare pas paa vaesner, der goer denne skov til deres hjem...og jagtplads.</column>
             <column name="strImg">ItmScavengeForest01.png</column>
             <column name="nTreasureID">3</column>
             <column name="nRemoveTreasureID">3</column>
