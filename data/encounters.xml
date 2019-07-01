@@ -1485,8 +1485,8 @@
         </table>
         <table name="encounters">
             <column name="id">56</column>
-            <column name="strName">Scavenge a forest shack.</column>
-            <column name="strDesc">Being far removed from urban centers, this secluded shack may have more promise. However, it could also be the home of a survivalist or militia member, so beware of booby traps.</column>
+            <column name="strName">Efterse en skov hytte.</column>
+            <column name="strDesc">At vaere langt vaek fra bycentrene, denne afsondrede hytte kan have mere at byde på. Det kunne dog også vaere hjemsted for en overlevende eller militsmedlem, saa pas paa for lureminer.</column>
             <column name="strImg">ItmScavengeForest02.png</column>
             <column name="nTreasureID">3</column>
             <column name="nRemoveTreasureID">3</column>
