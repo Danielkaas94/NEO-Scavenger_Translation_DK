@@ -1511,8 +1511,8 @@
         </table>
         <table name="encounters">
             <column name="id">57</column>
-            <column name="strName">Scavenge an open field.</column>
-            <column name="strDesc">Open fields are scavengers' worst options, as anything of value here was likely already spotted and taken. Plus, there's hardly anywhere to hide. But hey, beggars can't be choosers.</column>
+            <column name="strName">efterse en aaben mark.</column>
+            <column name="strDesc">Aabne marker er klunsers vaerste mulighed, var her noget af vaerdi var det sandsynligvis allerede spottet og taget. Plus, der er knap ingen steder at skjule. But hey, beggars can't be choosers.</column>
             <column name="strImg">ItmScavengeGrass01.png</column>
             <column name="nTreasureID">3</column>
             <column name="nRemoveTreasureID">3</column>
