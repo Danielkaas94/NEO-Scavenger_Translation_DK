@@ -1512,7 +1512,7 @@
         <table name="encounters">
             <column name="id">57</column>
             <column name="strName">efterse en aaben mark.</column>
-            <column name="strDesc">Aabne marker er klunsers vaerste mulighed, var her noget af vaerdi var det sandsynligvis allerede spottet og taget. Plus, der er knap ingen steder at skjule. But hey, beggars can't be choosers.</column>
+            <column name="strDesc">Aabne marker er klunsers vaerste mulighed, var her noget af vaerdi var det sandsynligvis allerede spottet og taget. Plus, der er knap ingen steder at skjule. Men hey, beggars can't be choosers.</column>
             <column name="strImg">ItmScavengeGrass01.png</column>
             <column name="nTreasureID">3</column>
             <column name="nRemoveTreasureID">3</column>
@@ -1537,8 +1537,8 @@
         </table>
         <table name="encounters">
             <column name="id">58</column>
-            <column name="strName">Scavenge a storage shed.</column>
-            <column name="strDesc">Storage sheds are mixed bags. Ostensibly there should be some goods inside. But then again, anyone here before you would've known that and cleaned it out. Still, it's worth a shot.</column>
+            <column name="strName">Efterse et opbevaringsskur.</column>
+            <column name="strDesc">Opbevaringsskure er blandede poser. Formentlig boer der vaere nogle varer indeni. Men så igen, nogen her foer dig ville have kendt det og renset det ud. Alligevel, er det et forsoeg vaerd.</column>
             <column name="strImg">ItmScavengeGarage01.png</column>
             <column name="nTreasureID">3</column>
             <column name="nRemoveTreasureID">3</column>
