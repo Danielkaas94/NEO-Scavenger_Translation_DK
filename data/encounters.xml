@@ -628,7 +628,7 @@
         <table name="encounters">
             <column name="id">23</column>
             <column name="strName">The Glow in the East</column>
-            <column name="strDesc">As night falls, you notice there is a bright glow coming from the east, easily visible through the treetops. It's no guarantee, but it could be a sign of civilization. Maybe even a lead on where you are, or who.And if nothing else, it's as good a landmark to strike towards as any.(Press &quot;Minimap&quot; or the &quot;M&quot; key to see its location on the map.)</column>
+            <column name="strDesc">Efterhaanden som natten falder, bemaerker du, at der er en klar gloed, der kommer fra oest, let synlig igennem traetopperne. Det er ingen garanti, men det kunne vaere et tegn paa civilisation. Maaske endda et fingerpeg paa hvor du er, eller hvem.Og hvis ikke andet, saa er det et godt vartegn at gaa frem efter.(Pres &quot;Minimap&quot; eller &quot;M&quot; tasten for, at se dens lokation paa kortet.)</column>
             <column name="strImg">EncGlow.png</column>
             <column name="nTreasureID">3</column>
             <column name="nRemoveTreasureID">3</column>
