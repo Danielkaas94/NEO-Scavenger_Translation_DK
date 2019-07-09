@@ -1356,7 +1356,7 @@
         <table name="encounters">
             <column name="id">51</column>
             <column name="strName">Efterse et forladt hus.</column>
-            <column name="strDesc">Forstaederne blev haardt ramt af sammenbruddet. Med masser af mennesker, der flygter fra bycentrene paa udkig efter forsyninger og overnaturlige trusler traenger ind fra vildmarken, blev forstaederne frontlinjen i en krig for overlevelse.Alligevel er huse som disse så talrige, at nogle er blevet fuldstaendig undgaaet af klunsere. Og de har tendens til at vaere mindre tilboejelige til at falde fra hinanden, end de stoerre bygninger ved bycentrene.</column>
+            <column name="strDesc">Forstaederne blev haardt ramt af sammenbruddet. Med masser af mennesker, der flygter fra bycentrene paa udkig efter forsyninger og overnaturlige trusler traenger ind fra vildmarken, blev forstaederne frontlinjen i en krig for overlevelse.Alligevel er huse som disse saa talrige, at nogle er blevet fuldstaendig undgaaet af klunsere. Og de har tendens til at vaere mindre tilboejelige til at falde fra hinanden, end de stoerre bygninger ved bycentrene.</column>
             <column name="strImg">ItmScavengeHouse01.png</column>
             <column name="nTreasureID">3</column>
             <column name="nRemoveTreasureID">3</column>
