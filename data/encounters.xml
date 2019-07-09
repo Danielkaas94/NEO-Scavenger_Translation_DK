@@ -1122,7 +1122,7 @@
         <table name="encounters">
             <column name="id">42</column>
             <column name="strName">Scavenging a hex</column>
-            <column name="strDesc">Looking around you, there appear to be a few areas worth checking out.</column>
+            <column name="strDesc">Du ser dig omkring, og du synes der et par omraader, der er vaerd at tjekke ud.</column>
             <column name="strImg">EncBlank.png</column>
             <column name="nTreasureID">3</column>
             <column name="nRemoveTreasureID">3</column>
