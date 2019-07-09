@@ -680,7 +680,7 @@
         <table name="encounters">
             <column name="id">25</column>
             <column name="strName">Engage up close.</column>
-            <column name="strDesc">You try to get as close as possible without revealing yourself...</column>
+            <column name="strDesc">Du forsoeger at komme saa taet som muligt uden, at afsloere dig selv...</column>
             <column name="strImg">EncAmbush.png</column>
             <column name="nTreasureID">3</column>
             <column name="nRemoveTreasureID">3</column>
