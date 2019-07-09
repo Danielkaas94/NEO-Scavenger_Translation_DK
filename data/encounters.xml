@@ -1564,7 +1564,7 @@
         <table name="encounters">
             <column name="id">59</column>
             <column name="strName">Scavenge using botany knowledge.</column>
-            <column name="strDesc">Use knowledge of plants to find better plant-based loot.</column>
+            <column name="strDesc">Brug viden om planter til at finde en bedre plante-baseret bytte.</column>
             <column name="strImg">EncBlank.png</column>
             <column name="nTreasureID">3</column>
             <column name="nRemoveTreasureID">3</column>
