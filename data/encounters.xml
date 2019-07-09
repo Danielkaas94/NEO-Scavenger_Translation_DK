@@ -2630,7 +2630,7 @@
         <table name="encounters">
             <column name="id">100</column>
             <column name="strName">Busted knuckles</column>
-            <column name="strDesc">Busted knuckles.While forcing open a promising-looking container, your hand slips, leaving you with a sore hand. It's nothing serious, but it has hampered your scavenging efforts for now.</column>
+            <column name="strDesc">Smadrede knoer.Imens du tvinger en lovende udseende beholder åben, din haand glider, efterlader dig med en oem haand. Det er ikke noget alvorligt, men det har haemmet din bestraebelse for indsamling for nu.</column>
             <column name="strImg">ItmScavengeApt01.png</column>
             <column name="nTreasureID">3</column>
             <column name="nRemoveTreasureID">3</column>
