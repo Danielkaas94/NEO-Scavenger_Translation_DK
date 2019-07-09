@@ -1772,7 +1772,7 @@
         <table name="encounters">
             <column name="id">67</column>
             <column name="strName">First ruins</column>
-            <column name="strDesc">As you approach the town, there is no sign of activity. Buildings stand in ruin. Vehicles are overturned and blackened with fire. Explosion marks radiate outward from walls and pavement.In the distance, strange-looking creatures circle in the sky, like monstrous, leathery vultures.The world has drastically changed from what you knew. Some sort of cataclysm has befallen Earth, returning mankind to the dark ages.And along with it, your hopes of finding a warm meal and some answers. You decide to look around, and scavenge what you can from the ruins.</column>
+            <column name="strDesc">Efterhaanden som du naermer dig byen, er der ingen tegn paa aktivitet. Bygninger staar i ruiner. Koeretoejerne er vaeltet og svaertet til med ild. Eksplosionsmaerker udstraaler udad fra vaegge og fortov.I det fjerne, underlige udseende skabninger cirkeler paa himlen, som afskyelige, laederagtige lignende gribbe.Verden har drastisk aendret sig fra, hvad du husker. En slags katastrofe har ramt Jorden, returneret menneskeheden til den moerke middelalder.Og sammen med det, dine forventninger om at finde et varmt maaltid mad og nogle svar. Du beslutter, at se dig omkring og indsamle hvad du kan fra ruinerne.</column>
             <column name="strImg">EncRuins.png</column>
             <column name="nTreasureID">3</column>
             <column name="nRemoveTreasureID">3</column>
