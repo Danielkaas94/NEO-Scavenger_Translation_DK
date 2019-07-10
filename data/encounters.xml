@@ -2656,7 +2656,7 @@
         <table name="encounters">
             <column name="id">101</column>
             <column name="strName">Stop scavenging</column>
-            <column name="strDesc">You decide not to try scavenging for now.</column>
+            <column name="strDesc">Du beslutter dig for ikke, at forsøge med at indsamle for nu.</column>
             <column name="strImg">EncBlank.png</column>
             <column name="nTreasureID">3</column>
             <column name="nRemoveTreasureID">3</column>
