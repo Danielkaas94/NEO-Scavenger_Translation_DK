@@ -2,16 +2,24 @@
 
 It is a mod for the game [NEO Scavenger](https://bluebottlegames.com/games/neo-scavenger/)
 
-## Screenshots 📺📸
+# Screenshots 📺📸
 
-### Original Text
+## Original Text
 <p align="center">
   <img alt="NEO Scavenger - Original Text" width="900" src="https://github.com/Danielkaas94/JustTesting/blob/master/Image/original_text.jpg?raw=true">
 </p>
 
-### Translated Text
+<p align="center">
+  <img alt="NEO Scavenger - Original Text" width="900" src="https://github.com/Danielkaas94/JustTesting/blob/master/Image/original_text2.jpg?raw=true">
+</p>
+
+## Translated Text
 <p align="center">
   <img alt="NEO Scavenger - Translated Text" width="900" src="https://github.com/Danielkaas94/JustTesting/blob/master/Image/translated_text.jpg?raw=true">
+</p>
+
+<p align="center">
+  <img alt="NEO Scavenger - Translated Text" width="900" src="https://github.com/Danielkaas94/JustTesting/blob/master/Image/translated_text2.jpg?raw=true">
 </p>
 
 
