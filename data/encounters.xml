@@ -368,7 +368,7 @@
         <table name="encounters">
             <column name="id">13</column>
             <column name="strName">Baghold?</column>
-            <column name="strDesc">En eller flere vaesner naermer sig, men ingen har set dig endnu.Vil du snige dig taettere på dem?Eller holde afstanden?</column>
+            <column name="strDesc">En eller flere vaesner naermer sig, men ingen har set dig endnu.Vil du snige dig taettere paa dem?Eller holde afstanden?</column>
             <column name="strImg">EncAmbush.png</column>
             <column name="nTreasureID">3</column>
             <column name="nRemoveTreasureID">3</column>
@@ -420,7 +420,7 @@
         <table name="encounters">
             <column name="id">15</column>
             <column name="strName">Soeg efter spor.</column>
-            <column name="strDesc">Stoevet paa jorden goer det nemt for dit traenede øje at gå efter et sæt af spor i særdeleshed.De synes at tilhoere en humanoid der trækker i noget, nok en kappe. Det var her for nylig, sandsynligvis indenfor de sidste 24 timer. Det traadte ind gennem doeråbningen, gik til din stasis tank, gik til kontrolkonsollen og derefter tilbage.Du ville satse gode penge paa, at det ikke var hunde manden som du lige stod overfor.</column>
+            <column name="strDesc">Stoevet paa jorden goer det nemt for dit traenede oeje at gaa efter et saet af spor i saerdeleshed.De synes at tilhoere en humanoid der traekker i noget, nok en kappe. Det var her for nylig, sandsynligvis indenfor de sidste 24 timer. Det traadte ind gennem doeraabningen, gik til din stasis tank, gik til kontrolkonsollen og derefter tilbage.Du ville satse gode penge paa, at det ikke var hunde manden som du lige stod overfor.</column>
             <column name="strImg">EncCryoFacility.png</column>
             <column name="nTreasureID">3</column>
             <column name="nRemoveTreasureID">3</column>
@@ -472,7 +472,7 @@
         <table name="encounters">
             <column name="id">17</column>
             <column name="strName">Hent optagelser</column>
-            <column name="strDesc">Du beslutter, at det var så fantastisk, at du fisker igennem konsollen for sikkerhedsoptagelser af det, og tager det med.</column>
+            <column name="strDesc">Du beslutter, at det var saa fantastisk, at du fisker igennem konsollen for sikkerhedsoptagelser af det, og tager det med.</column>
             <column name="strImg">EncDeathDogman.png</column>
             <column name="nTreasureID">401</column>
             <column name="nRemoveTreasureID">3</column>
@@ -498,7 +498,7 @@
         <table name="encounters">
             <column name="id">18</column>
             <column name="strName">Bemaerk en genstand.</column>
-            <column name="strDesc">Noget fanger dit oeje, da du scanner lokalet. Formoerket af skyggerne bag kapsel #2 er noget lille og metallisk liggende paa gulvet.Ved naermere eftersyn ser det ud til at vaere en multitool lommekniv. Sandsynligvis efterladt af vedligeholdelsespersonale for laenge siden, og ingen har set den siden.Hvem der end har efterladt den her, du er helt sikker på, at de ikke har brug for den saa meget som dig, saa du beslutter dig for at tage den.</column>
+            <column name="strDesc">Noget fanger dit oeje, da du scanner lokalet. Formoerket af skyggerne bag kapsel #2 er noget lille og metallisk liggende paa gulvet.Ved naermere eftersyn ser det ud til at vaere en multitool lommekniv. Sandsynligvis efterladt af vedligeholdelsespersonale for laenge siden, og ingen har set den siden.Hvem der end har efterladt den her, du er helt sikker paa, at de ikke har brug for den saa meget som dig, saa du beslutter dig for at tage den.</column>
             <column name="strImg">EncCryoFacility.png</column>
             <column name="nTreasureID">67</column>
             <column name="nRemoveTreasureID">3</column>
@@ -524,7 +524,7 @@
         <table name="encounters">
             <column name="id">19</column>
             <column name="strName">Klatre ud af vinduet.</column>
-            <column name="strDesc">Du beslutter dig for at gaa udenfor, og se om du kan finde ud af, hvor du er.Du undgaar det brudte glas, du traeder ind paa karmen og udenfor, rasler nogle planter, der er vokset vildt i omraadet. Det er koeligt udenfor og fugtigt. Sandsynligvis morgen.Det fjerne vidnesbyrd fra et pistolskud fanger din opmærksomhed. Du drejer hovedet og lytter, men det er overstaaet saa hurtigt som det startede.Tydeligvis er du ikke alene herude. Selvom det ikke noedvendigvis troester dig.</column>
+            <column name="strDesc">Du beslutter dig for at gaa udenfor, og se om du kan finde ud af, hvor du er.Du undgaar det brudte glas, du traeder ind paa karmen og udenfor, rasler nogle planter, der er vokset vildt i omraadet. Det er koeligt udenfor og fugtigt. Sandsynligvis morgen.Det fjerne vidnesbyrd fra et pistolskud fanger din opmaerksomhed. Du drejer hovedet og lytter, men det er overstaaet saa hurtigt som det startede.Tydeligvis er du ikke alene herude. Selvom det ikke noedvendigvis troester dig.</column>
             <column name="strImg">EncCryoEscape.png</column>
             <column name="nTreasureID">3</column>
             <column name="nRemoveTreasureID">3</column>
@@ -550,7 +550,7 @@
         <table name="encounters">
             <column name="id">20</column>
             <column name="strName">Bortskaf reality show stjernen.</column>
-            <column name="strDesc">Du taster koden for beroemtheden, du skynder dig tilbage til din egen kapsel og forsegler den igen.Kapsel #1 begynder at brumme, og forseglingen bryder med et brusende hast af vaeske. Rummet hviner og boejes af kulde fra det flydende nitrogen, der daekker gulvet.Inden for et lille øjeblik er kvaelstoffet kogt ud ved stuetemperatur og efterlader et frosset mansikel paa gulvet.I foerste omgang bakker hunde manden ud, usikker paa den uro, der netop er sket. Men sult erstatter hurtigt bekymring, da lugten af optoening af koed fanger hans opmaerksomhed. Han begynder at traekke kroppen vaek, sandsynligvis til hans hule.Og hans karriere var ellers ved at varme op...</column>
+            <column name="strDesc">Du taster koden for beroemtheden, du skynder dig tilbage til din egen kapsel og forsegler den igen.Kapsel #1 begynder at brumme, og forseglingen bryder med et brusende hast af vaeske. Rummet hviner og boejes af kulde fra det flydende nitrogen, der daekker gulvet.Inden for et lille oejeblik er kvaelstoffet kogt ud ved stuetemperatur og efterlader et frosset mansikel paa gulvet.I foerste omgang bakker hunde manden ud, usikker paa den uro, der netop er sket. Men sult erstatter hurtigt bekymring, da lugten af optoening af koed fanger hans opmaerksomhed. Han begynder at traekke kroppen vaek, sandsynligvis til hans hule.Og hans karriere var ellers ved at varme op...</column>
             <column name="strImg">EncDeathDogman.png</column>
             <column name="nTreasureID">3</column>
             <column name="nRemoveTreasureID">3</column>
@@ -1460,7 +1460,7 @@
         <table name="encounters">
             <column name="id">55</column>
             <column name="strName">Efterse en straekning af skoven.</column>
-            <column name="strDesc">Denne skovstraekning synes næsten at blomstre i mangel af menneskeliv. Der er en god chance, at en kunne finde mad og raavarer herinde, hvis de vidste, hvad de skulle kigge efter.Bare pas paa vaesner, der goer denne skov til deres hjem...og jagtplads.</column>
+            <column name="strDesc">Denne skovstraekning synes naesten at blomstre i mangel af menneskeliv. Der er en god chance, at en kunne finde mad og raavarer herinde, hvis de vidste, hvad de skulle kigge efter.Bare pas paa vaesner, der goer denne skov til deres hjem...og jagtplads.</column>
             <column name="strImg">ItmScavengeForest01.png</column>
             <column name="nTreasureID">3</column>
             <column name="nRemoveTreasureID">3</column>
@@ -1538,7 +1538,7 @@
         <table name="encounters">
             <column name="id">58</column>
             <column name="strName">Efterse et opbevaringsskur.</column>
-            <column name="strDesc">Opbevaringsskure er blandede poser. Formentlig boer der vaere nogle varer indeni. Men så igen, nogen her foer dig ville have kendt det og renset det ud. Alligevel, er det et forsoeg vaerd.</column>
+            <column name="strDesc">Opbevaringsskure er blandede poser. Formentlig boer der vaere nogle varer indeni. Men saa igen, nogen her foer dig ville have kendt det og renset det ud. Alligevel, er det et forsoeg vaerd.</column>
             <column name="strImg">ItmScavengeGarage01.png</column>
             <column name="nTreasureID">3</column>
             <column name="nRemoveTreasureID">3</column>
@@ -2630,7 +2630,7 @@
         <table name="encounters">
             <column name="id">100</column>
             <column name="strName">Busted knuckles</column>
-            <column name="strDesc">Smadrede knoer.Imens du tvinger en lovende udseende beholder åben, din haand glider, efterlader dig med en oem haand. Det er ikke noget alvorligt, men det har haemmet din bestraebelse for indsamling for nu.</column>
+            <column name="strDesc">Smadrede knoer.Imens du tvinger en lovende udseende beholder aaben, din haand glider, efterlader dig med en oem haand. Det er ikke noget alvorligt, men det har haemmet din bestraebelse for indsamling for nu.</column>
             <column name="strImg">ItmScavengeApt01.png</column>
             <column name="nTreasureID">3</column>
             <column name="nRemoveTreasureID">3</column>
@@ -2656,7 +2656,7 @@
         <table name="encounters">
             <column name="id">101</column>
             <column name="strName">Stop scavenging</column>
-            <column name="strDesc">Du beslutter dig for ikke, at forsøge med at indsamle for nu.</column>
+            <column name="strDesc">Du beslutter dig for ikke, at forsoege med at indsamle for nu.</column>
             <column name="strImg">EncBlank.png</column>
             <column name="nTreasureID">3</column>
             <column name="nRemoveTreasureID">3</column>
