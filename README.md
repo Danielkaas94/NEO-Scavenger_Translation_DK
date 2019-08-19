@@ -1,6 +1,11 @@
 # NEO Scavenger - Danish Translation
 
-It is a mod for the game [NEO Scavenger](https://bluebottlegames.com/games/neo-scavenger/)
+<p align="center">
+  <img alt="NEO Scavenger - Main Image"  src="https://i.ytimg.com/vi/v8MLJc0QyVY/hqdefault.jpg">
+</p>
+
+#### It is a mod for the game [NEO Scavenger](https://bluebottlegames.com/games/neo-scavenger/)
+
 
 # Screenshots 📺📸
 <details><summary>➡ Click To Reveal ⬅</summary>
