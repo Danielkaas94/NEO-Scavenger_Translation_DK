@@ -15,12 +15,12 @@
 
 ### Original Text - Outside The Cryo Facility ❄🏥❄
 <p align="center">
-  <img alt="Original Text - Outside The Cryo Facility" width="900" src="https://github.com/Danielkaas94/JustTesting/blob/master/Image/original_text.jpg?raw=true">
+  <img alt="Original Text - Outside The Cryo Facility" src="https://github.com/Danielkaas94/JustTesting/blob/master/Image/original_text.jpg?raw=true">
 </p>
 
 ### Original Text - Scavenge an Abandoned House 🏚
 <p align="center">
-  <img alt="Original Text - Scavenge an Abandoned House 🏚" width="900" src="https://github.com/Danielkaas94/JustTesting/blob/master/Image/original_text2.jpg?raw=true">
+  <img alt="Original Text - Scavenge an Abandoned House 🏚" src="https://github.com/Danielkaas94/JustTesting/blob/master/Image/original_text2.jpg?raw=true">
 </p>
 
 </details>
@@ -32,12 +32,12 @@
 
 ### Translated Text - Outside The Cryo Facility ❄🏥❄
 <p align="center">
-  <img alt="NEO Scavenger - Translated Text" width="900" src="https://github.com/Danielkaas94/JustTesting/blob/master/Image/translated_text.jpg?raw=true">
+  <img alt="NEO Scavenger - Translated Text" src="https://github.com/Danielkaas94/JustTesting/blob/master/Image/translated_text.jpg?raw=true">
 </p>
 
 ### Translated Text - Scavenge an Abandoned House 🏚
 <p align="center">
-  <img alt="NEO Scavenger - Translated Text" width="900" src="https://github.com/Danielkaas94/JustTesting/blob/master/Image/translated_text2.jpg?raw=true">
+  <img alt="NEO Scavenger - Translated Text" src="https://github.com/Danielkaas94/JustTesting/blob/master/Image/translated_text2.jpg?raw=true">
 </p>
 
 </details>

@@ -160,7 +160,7 @@
         <table name="encounters">
             <column name="id">5</column>
             <column name="strName">Merga Wraith Appears</column>
-            <column name="strDesc">Der er en pludselig brøl og en brise af toer luft, da blaendende, blaahvidt lys bader omraadet.Formloes moerke begynder at vises indefra, og snart dukker det op: et uigennemtrængelig sort silhuet, der endeløst kaster fragmenter af sig selv. Orange braender fra dets centrum, gennemboret af de spredte fragmenter af sort.Det bevaegede sig allerede inden du kunne regne ud af dens form, og dets raa, kritthvide ansigt er fastgjort paa dig.</column>
+            <column name="strDesc">Der er en pludselig broel og en brise af toer luft, da blaendende, blaahvidt lys bader omraadet.Formloes moerke begynder at vises indefra, og snart dukker det op: et uigennemtrængelig sort silhuet, der endeløst kaster fragmenter af sig selv. Orange braender fra dets centrum, gennemboret af de spredte fragmenter af sort.Det bevaegede sig allerede inden du kunne regne ud af dens form, og dets raa, kritthvide ansigt er fastgjort paa dig.</column>
             <column name="strImg">EncMergaWraith.png</column>
             <column name="nTreasureID">3</column>
             <column name="nRemoveTreasureID">3</column>
