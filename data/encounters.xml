@@ -238,7 +238,11 @@
         <table name="encounters">
             <column name="id">8</column>
             <column name="strName">Find someplace to hide.</column>
-            <column name="strDesc">You quickly scan the room for a hiding place, and duck behind the cryo tank nearest the window. Hopefully the light from outdoors will make it harder to see you in the nearby shadow. And with most of the room smelling of cryoprotectants, you stand a pretty good chance of having your scent masked. You hold your breath as something enters the room. Its heavy breathing becomes more nasal as it begins sniffing the air. The sniffing grows closer, but continues further into the room. It lets out an annoyed bark, huffs, and starts sniffing back into the hall.A few minutes later, you're pretty sure it's out of earshot again.</column>
+            <column name="strDesc">Du scanner hurtigt rummet efter et skjulested, og dukker bag kryo-tanken naermest vinduet. Forhaabentlig vil lyset udendoers goere det svaerere, at se dig i den naerliggende skygge. Og med det meste af vaerelset, der lugter af kryobeskyttelsesmidler, du har en ret god chance for at faa din duft maskeret. 
+
+Du holder vejret, da noget kommer ind i rummet. Dens tunge vejrtrækning bliver mere nasal, naar den begynder at snuse luften. Snusen vokser taettere, men fortsaetter laengere ind i rummet. Det slipper en irriteret bjoef ud, mopset og begynder at snuse tilbage i hallen.
+
+Et par minutter senere er du temmelig sikker paa, at den igen er ude af hoerevidde.</column>
             <column name="strImg">EncDeathDogman.png</column>
             <column name="nTreasureID">3</column>
             <column name="nRemoveTreasureID">3</column>
