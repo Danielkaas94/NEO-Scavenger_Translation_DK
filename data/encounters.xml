@@ -710,7 +710,13 @@ Et par minutter senere er du temmelig sikker paa, at den igen er ude af hoerevid
         <table name="encounters">
             <column name="id">26</column>
             <column name="strName">DMC Gates</column>
-            <column name="strDesc">Navigating the twisty maze of shacks and tarp shelters, Detroit's massive walls stand as a constant backdrop to the east.Easily half a dozen stories high, and probably almost as thick, the city walls are an impressive sight to behold. Armed towers, bristling with surveillance arrays, stand at regular intervals, keeping watch over the Sprawl, and likely the city within.Before you, giant vidscreens on the three gatehouses flash instructions about pass requirements and threat levels, as flocks of people stream into and out of the gates.You take your place in line on the right, with the others entering the city.</column>
+            <column name="strDesc">Navigerer i de snoede labyrinter af hytter og presenningstelte, Detroits massive mur staar som et konstant kulisse mod oest.
+
+Nemt en halv dusin etager hoej og sikkert mindst lige saa tyk, byens mure er et imponerende syn at se. bevaebnede taarne, behaaret med raekker af overvaagningskameraer, staar stille ved regelmaessige intervaller, holder oeje med bykanten, og sikkert byen indefra.
+
+foran dig, giantiske videoskaerme paa de tre porte blinker med instruktioner omkring passeringskrav og trusselsniveauer, imens flokke af folk stroemmer ind og ud af portene.
+
+Du tager din plads i koeen til hoejre, med de andre som vil ind i byen.</column>
             <column name="strImg">EncMegacityGates.png</column>
             <column name="nTreasureID">3</column>
             <column name="nRemoveTreasureID">3</column>
