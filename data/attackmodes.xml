@@ -47,7 +47,7 @@
         <!-- Table attackmodes -->
         <table name="attackmodes">
             <column name="id">1</column>
-            <column name="strName">punch</column>
+            <column name="strName">Slag</column> <!-- I want to test, if it's looking with a uppercase letter -->
             <column name="strNotes"></column>
             <column name="nRange">1</column>
             <column name="fDamageCut">0</column>
@@ -65,7 +65,7 @@
         </table>
         <table name="attackmodes">
             <column name="id">2</column>
-            <column name="strName">.308 rifle FMJ</column>
+            <column name="strName">.308 riffel FMJ</column>
             <column name="strNotes"></column>
             <column name="nRange">80</column>
             <column name="fDamageCut">1.5</column>
@@ -78,12 +78,12 @@
             <column name="vAttackerConditions">211x1.0</column>
             <column name="strIMG">AMode308.png</column>
             <column name="fMorale">0.4</column>
-            <column name="strWieldPhrase">readies their .308 hunting rifle</column>
+            <column name="strWieldPhrase">readies their .308 jagt riffel</column>
             <column name="vAttackPhrases">pops a shot off at,fires their .308 at,takes a shot at,fires at</column>
         </table>
         <table name="attackmodes">
             <column name="id">3</column>
-            <column name="strName">.308 rifle SP</column>
+            <column name="strName">.308 riffel SP</column>
             <column name="strNotes"></column>
             <column name="nRange">80</column>
             <column name="fDamageCut">1</column>
@@ -96,12 +96,12 @@
             <column name="vAttackerConditions">211x1.0</column>
             <column name="strIMG">AMode308.png</column>
             <column name="fMorale">0.4</column>
-            <column name="strWieldPhrase">readies their .308 hunting rifle</column>
+            <column name="strWieldPhrase">readies their .308 jagt riffel</column>
             <column name="vAttackPhrases">pops a shot off at,fires their .308 at,takes a shot at,fires at</column>
         </table>
         <table name="attackmodes">
             <column name="id">4</column>
-            <column name="strName">scoped .308 rifle FMJ</column>
+            <column name="strName">scoped .308 riffel FMJ</column>
             <column name="strNotes"></column>
             <column name="nRange">95</column>
             <column name="fDamageCut">1.5</column>
@@ -119,7 +119,7 @@
         </table>
         <table name="attackmodes">
             <column name="id">5</column>
-            <column name="strName">scoped .308 rifle SP</column>
+            <column name="strName">scoped .308 riffel SP</column>
             <column name="strNotes"></column>
             <column name="nRange">95</column>
             <column name="fDamageCut">1</column>
@@ -137,7 +137,7 @@
         </table>
         <table name="attackmodes">
             <column name="id">6</column>
-            <column name="strName">rifle butt</column>
+            <column name="strName">riffel butt</column>
             <column name="strNotes"></column>
             <column name="nRange">1</column>
             <column name="fDamageCut">0</column>
@@ -150,12 +150,12 @@
             <column name="vAttackerConditions"></column>
             <column name="strIMG">AMode308Butt.png</column>
             <column name="fMorale">0.25</column>
-            <column name="strWieldPhrase">changes grip on their .308 hunting rifle, ready to bash</column>
-            <column name="vAttackPhrases">thrusts the butt of their rifle at,swings the butt of their rifle at,hauls off with their rifle butt on</column>
+            <column name="strWieldPhrase">changes grip on their .308 jagt riffel, ready to bash</column>
+            <column name="vAttackPhrases">thrusts the butt of their riffel at,swings the butt of their riffel at,hauls off with their riffel butt on</column>
         </table>
         <table name="attackmodes">
             <column name="id">7</column>
-            <column name="strName">claw</column>
+            <column name="strName">klo</column>
             <column name="strNotes"></column>
             <column name="nRange">1</column>
             <column name="fDamageCut">1</column>
@@ -173,7 +173,7 @@
         </table>
         <table name="attackmodes">
             <column name="id">8</column>
-            <column name="strName">meat cleaver</column>
+            <column name="strName">koedkloever</column>
             <column name="strNotes"></column>
             <column name="nRange">1</column>
             <column name="fDamageCut">1.2</column>
@@ -191,7 +191,7 @@
         </table>
         <table name="attackmodes">
             <column name="id">9</column>
-            <column name="strName">monkey wrench</column>
+            <column name="strName">svensknoegle</column>
             <column name="strNotes"></column>
             <column name="nRange">1</column>
             <column name="fDamageCut">0</column>
@@ -209,7 +209,7 @@
         </table>
         <table name="attackmodes">
             <column name="id">10</column>
-            <column name="strName">stick</column>
+            <column name="strName">pind</column>
             <column name="strNotes"></column>
             <column name="nRange">2</column>
             <column name="fDamageCut">0.2</column>
@@ -227,7 +227,7 @@
         </table>
         <table name="attackmodes">
             <column name="id">11</column>
-            <column name="strName">crowbar</column>
+            <column name="strName">koben</column>
             <column name="strNotes"></column>
             <column name="nRange">2</column>
             <column name="fDamageCut">0</column>
@@ -245,7 +245,7 @@
         </table>
         <table name="attackmodes">
             <column name="id">12</column>
-            <column name="strName">multitool blade</column>
+            <column name="strName">multitool klinge</column>
             <column name="strNotes"></column>
             <column name="nRange">1</column>
             <column name="fDamageCut">0.4</column>
@@ -299,7 +299,7 @@
         </table>
         <table name="attackmodes">
             <column name="id">15</column>
-            <column name="strName">metal sauce pan</column>
+            <column name="strName">metal gryde</column>
             <column name="strNotes"></column>
             <column name="nRange">1</column>
             <column name="fDamageCut">0</column>
@@ -353,7 +353,7 @@
         </table>
         <table name="attackmodes">
             <column name="id">18</column>
-            <column name="strName">large stick</column>
+            <column name="strName">stor pind</column>
             <column name="strNotes"></column>
             <column name="nRange">3</column>
             <column name="fDamageCut">0.2</column>
@@ -371,7 +371,7 @@
         </table>
         <table name="attackmodes">
             <column name="id">19</column>
-            <column name="strName">glass bottle</column>
+            <column name="strName">glas flaske</column>
             <column name="strNotes"></column>
             <column name="nRange">1</column>
             <column name="fDamageCut">0.2</column>
@@ -389,7 +389,7 @@
         </table>
         <table name="attackmodes">
             <column name="id">20</column>
-            <column name="strName">shard</column>
+            <column name="strName">glas skaar</column>
             <column name="strNotes"></column>
             <column name="nRange">1</column>
             <column name="fDamageCut">0.4</column>
@@ -407,7 +407,7 @@
         </table>
         <table name="attackmodes">
             <column name="id">21</column>
-            <column name="strName">broken bottle</column>
+            <column name="strName">smadret flaske</column>
             <column name="strNotes"></column>
             <column name="nRange">1</column>
             <column name="fDamageCut">0.4</column>
@@ -425,7 +425,7 @@
         </table>
         <table name="attackmodes">
             <column name="id">22</column>
-            <column name="strName">glass shiv</column>
+            <column name="strName">glas shiv</column>
             <column name="strNotes"></column>
             <column name="nRange">1</column>
             <column name="fDamageCut">0.4</column>
@@ -443,7 +443,7 @@
         </table>
         <table name="attackmodes">
             <column name="id">23</column>
-            <column name="strName">simple bow w/broadhead</column>
+            <column name="strName">simpel bue med bredhoved</column>
             <column name="strNotes"></column>
             <column name="nRange">30</column>
             <column name="fDamageCut">0.8</column>
@@ -461,7 +461,7 @@
         </table>
         <table name="attackmodes">
             <column name="id">24</column>
-            <column name="strName">simple bow w/crude piercing</column>
+            <column name="strName">simpel bue med raa piercing</column>
             <column name="strNotes"></column>
             <column name="nRange">30</column>
             <column name="fDamageCut">0.8</column>
@@ -479,7 +479,7 @@
         </table>
         <table name="attackmodes">
             <column name="id">25</column>
-            <column name="strName">simple bow w/crude broadhead</column>
+            <column name="strName">simpel bue w/crude broadhead</column>
             <column name="strNotes"></column>
             <column name="nRange">30</column>
             <column name="fDamageCut">0.8</column>
@@ -497,7 +497,7 @@
         </table>
         <table name="attackmodes">
             <column name="id">26</column>
-            <column name="strName">compound bow w/broadhead</column>
+            <column name="strName">sammensat bue med bredhoved</column>
             <column name="strNotes"></column>
             <column name="nRange">40</column>
             <column name="fDamageCut">0.8</column>
@@ -515,7 +515,7 @@
         </table>
         <table name="attackmodes">
             <column name="id">27</column>
-            <column name="strName">compound bow w/crude piercing</column>
+            <column name="strName">sammensat bue med raa piercing</column>
             <column name="strNotes"></column>
             <column name="nRange">40</column>
             <column name="fDamageCut">0.8</column>
@@ -533,7 +533,7 @@
         </table>
         <table name="attackmodes">
             <column name="id">28</column>
-            <column name="strName">compound bow w/crude broadhead</column>
+            <column name="strName">sammensat bue med raa bredhoved</column>
             <column name="strNotes"></column>
             <column name="nRange">40</column>
             <column name="fDamageCut">0.8</column>
@@ -551,7 +551,7 @@
         </table>
         <table name="attackmodes">
             <column name="id">29</column>
-            <column name="strName">arrow stab: broadhead</column>
+            <column name="strName">pilestik: bredhoved</column>
             <column name="strNotes"></column>
             <column name="nRange">1</column>
             <column name="fDamageCut">0.8</column>
@@ -569,7 +569,7 @@
         </table>
         <table name="attackmodes">
             <column name="id">30</column>
-            <column name="strName">arrow stab: crude piercing</column>
+            <column name="strName">pilestik: raa piercing</column>
             <column name="strNotes"></column>
             <column name="nRange">1</column>
             <column name="fDamageCut">0.8</column>
@@ -587,7 +587,7 @@
         </table>
         <table name="attackmodes">
             <column name="id">31</column>
-            <column name="strName">arrow stab: crude broadhead</column>
+            <column name="strName">pilestik: raa bredhoved</column>
             <column name="strNotes"></column>
             <column name="nRange">1</column>
             <column name="fDamageCut">0.8</column>
@@ -605,7 +605,7 @@
         </table>
         <table name="attackmodes">
             <column name="id">32</column>
-            <column name="strName">thrown pebble</column>
+            <column name="strName">kastet smaasten</column>
             <column name="strNotes"></column>
             <column name="nRange">10</column>
             <column name="fDamageCut">0</column>
@@ -623,7 +623,7 @@
         </table>
         <table name="attackmodes">
             <column name="id">33</column>
-            <column name="strName">thrown stone</column>
+            <column name="strName">kastet sten</column>
             <column name="strNotes"></column>
             <column name="nRange">10</column>
             <column name="fDamageCut">0.1</column>
@@ -641,7 +641,7 @@
         </table>
         <table name="attackmodes">
             <column name="id">34</column>
-            <column name="strName">slung pebble</column>
+            <column name="strName">slynget smaasten</column>
             <column name="strNotes"></column>
             <column name="nRange">25</column>
             <column name="fDamageCut">0</column>
@@ -659,7 +659,7 @@
         </table>
         <table name="attackmodes">
             <column name="id">35</column>
-            <column name="strName">slung stone</column>
+            <column name="strName">slynget sten</column>
             <column name="strNotes"></column>
             <column name="nRange">20</column>
             <column name="fDamageCut">0.2</column>
@@ -713,7 +713,7 @@
         </table>
         <table name="attackmodes">
             <column name="id">38</column>
-            <column name="strName">stone smash</column>
+            <column name="strName">smadre med sten</column>
             <column name="strNotes"></column>
             <column name="nRange">1</column>
             <column name="fDamageCut">0.1</column>
@@ -731,7 +731,7 @@
         </table>
         <table name="attackmodes">
             <column name="id">39</column>
-            <column name="strName">pistol whip</column>
+            <column name="strName">slag med pistolgrebet</column>
             <column name="strNotes"></column>
             <column name="nRange">1</column>
             <column name="fDamageCut">0.1</column>
@@ -821,7 +821,7 @@
         </table>
         <table name="attackmodes">
             <column name="id">44</column>
-            <column name="strName">sharpened spear stab</column>
+            <column name="strName">skarp spyd stik</column>
             <column name="strNotes"></column>
             <column name="nRange">3</column>
             <column name="fDamageCut">0.8</column>
@@ -839,7 +839,7 @@
         </table>
         <table name="attackmodes">
             <column name="id">45</column>
-            <column name="strName">sharpened spear throw</column>
+            <column name="strName">skarp spyd kast</column>
             <column name="strNotes"></column>
             <column name="nRange">10</column>
             <column name="fDamageCut">0.8</column>
@@ -857,7 +857,7 @@
         </table>
         <table name="attackmodes">
             <column name="id">46</column>
-            <column name="strName">hardened spear stab</column>
+            <column name="strName">haerdet spyd stik</column>
             <column name="strNotes"></column>
             <column name="nRange">3</column>
             <column name="fDamageCut">0.8</column>
@@ -875,7 +875,7 @@
         </table>
         <table name="attackmodes">
             <column name="id">47</column>
-            <column name="strName">hardened spear throw</column>
+            <column name="strName">haerdet spyd kast</column>
             <column name="strNotes"></column>
             <column name="nRange">10</column>
             <column name="fDamageCut">0.8</column>
@@ -893,7 +893,7 @@
         </table>
         <table name="attackmodes">
             <column name="id">48</column>
-            <column name="strName">broad spear stab</column>
+            <column name="strName">bred spyd stik</column>
             <column name="strNotes"></column>
             <column name="nRange">3</column>
             <column name="fDamageCut">1</column>
@@ -911,7 +911,7 @@
         </table>
         <table name="attackmodes">
             <column name="id">49</column>
-            <column name="strName">broad spear throw</column>
+            <column name="strName">bred spyd kast</column>
             <column name="strNotes"></column>
             <column name="nRange">10</column>
             <column name="fDamageCut">0.8</column>
@@ -929,7 +929,7 @@
         </table>
         <table name="attackmodes">
             <column name="id">50</column>
-            <column name="strName">hoof</column>
+            <column name="strName">hov</column>
             <column name="strNotes"></column>
             <column name="nRange">1</column>
             <column name="fDamageCut">0</column>
@@ -947,7 +947,7 @@
         </table>
         <table name="attackmodes">
             <column name="id">51</column>
-            <column name="strName">flashlight</column>
+            <column name="strName">lommelygte</column>
             <column name="strNotes"></column>
             <column name="nRange">1</column>
             <column name="fDamageCut">0</column>
@@ -1001,7 +1001,7 @@
         </table>
         <table name="attackmodes">
             <column name="id">54</column>
-            <column name="strName">Anishinaabe bow w/broadhead</column>
+            <column name="strName">Anishinaabe bue med bredhoved</column>
             <column name="strNotes"></column>
             <column name="nRange">30</column>
             <column name="fDamageCut">0.8</column>
@@ -1019,7 +1019,7 @@
         </table>
         <table name="attackmodes">
             <column name="id">55</column>
-            <column name="strName">Anishinaabe bow w/crude piercing</column>
+            <column name="strName">Anishinaabe bue med raa piercing</column>
             <column name="strNotes"></column>
             <column name="nRange">30</column>
             <column name="fDamageCut">0.8</column>
@@ -1037,7 +1037,7 @@
         </table>
         <table name="attackmodes">
             <column name="id">56</column>
-            <column name="strName">Anishinaabe bow w/crude broadhead</column>
+            <column name="strName">Anishinaabe bue med raa bredhoved</column>
             <column name="strNotes"></column>
             <column name="nRange">30</column>
             <column name="fDamageCut">0.8</column>
@@ -1055,7 +1055,7 @@
         </table>
         <table name="attackmodes">
             <column name="id">57</column>
-            <column name="strName">war club</column>
+            <column name="strName">krigskoelle</column> <!-- Død med kølle! ~ Flodhesten Dolph! -->
             <column name="strNotes"></column>
             <column name="nRange">2</column>
             <column name="fDamageCut">0</column>
@@ -1073,7 +1073,7 @@
         </table>
         <table name="attackmodes">
             <column name="id">58</column>
-            <column name="strName">4mm Gauss rifle AP</column>
+            <column name="strName">4mm Gauss riffel AP</column>
             <column name="strNotes"></column>
             <column name="nRange">60</column>
             <column name="fDamageCut">1.5</column>
@@ -1086,13 +1086,13 @@
             <column name="vAttackerConditions">211x1.0</column>
             <column name="strIMG">AMode4mm.png</column>
             <column name="fMorale">0.6</column>
-            <column name="strWieldPhrase">peers through their Gauss rifle, lining up a shot at</column>
-            <column name="vAttackPhrases">pops a shot off at,fires their Gauss rifle at,takes a shot at,fires at</column>
+            <column name="strWieldPhrase">peers through their Gauss riffel, lining up a shot at</column>
+            <column name="vAttackPhrases">pops a shot off at,fires their Gauss riffel at,takes a shot at,fires at</column>
         </table>
         <table name="attackmodes">
             <column name="id">59</column>
-            <column name="strName">4mm Gauss rifle AP</column>
-            <column name="strNotes">Drone Gauss rifle AP</column>
+            <column name="strName">4mm Gauss riffel AP</column>
+            <column name="strNotes">Drone Gauss riffel AP</column>
             <column name="nRange">180</column>
             <column name="fDamageCut">1.5</column>
             <column name="fDamageBlunt">0.5</column>
@@ -1104,12 +1104,12 @@
             <column name="vAttackerConditions">211x1.0</column>
             <column name="strIMG">AMode4mm.png</column>
             <column name="fMorale">0.6</column>
-            <column name="strWieldPhrase">peers through their Gauss rifle, lining up a shot at</column>
-            <column name="vAttackPhrases">pops a shot off at,fires their Gauss rifle at,takes a shot at,fires at</column>
+            <column name="strWieldPhrase">peers through their Gauss riffel, lining up a shot at</column>
+            <column name="vAttackPhrases">pops a shot off at,fires their Gauss riffel at,takes a shot at,fires at</column>
         </table>
         <table name="attackmodes">
             <column name="id">60</column>
-            <column name="strName">scoped 4mm Gauss rifle AP</column>
+            <column name="strName">scoped 4mm Gauss riffel AP</column>
             <column name="strNotes"></column>
             <column name="nRange">75</column>
             <column name="fDamageCut">1.5</column>
@@ -1122,13 +1122,13 @@
             <column name="vAttackerConditions">211x1.0</column>
             <column name="strIMG">AMode4mmScoped.png</column>
             <column name="fMorale">0.6</column>
-            <column name="strWieldPhrase">peers through their Gauss rifle, lining up a shot at</column>
-            <column name="vAttackPhrases">pops a shot off at,fires their Gauss rifle at,takes a shot at,fires at</column>
+            <column name="strWieldPhrase">peers through their Gauss riffel, lining up a shot at</column>
+            <column name="vAttackPhrases">pops a shot off at,fires their Gauss riffel at,takes a shot at,fires at</column>
         </table>
         <table name="attackmodes">
             <column name="id">61</column>
-            <column name="strName">bite</column>
-            <column name="strNotes">dog bite</column>
+            <column name="strName">bid</column>
+            <column name="strNotes">hundebid</column>
             <column name="nRange">1</column>
             <column name="fDamageCut">0.4</column>
             <column name="fDamageBlunt">0.1</column>
